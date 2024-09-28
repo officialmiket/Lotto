@@ -73,9 +73,3 @@ public class lotto {
         }
     }
 }
-
-/*        if (writers.equals("yes" + "y" + "Y" + "Yes")) {
-} else {
-    //fw.close();
-    scanner.close();
-} */
